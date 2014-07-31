@@ -1,4 +1,4 @@
-tizen-sunxi
+Tizen for Allwinner
 ===========
 
 Tizen-sunxi is an open-source project for porting Tizen to devices with Allwinner A-Series processors. Sunxi represents he family of ARM SoC (System on Chip) designed for embedded systems, and made by Allwinner Tech. in Zhuhai (Guangdong, China). The port targets the following SoC:
